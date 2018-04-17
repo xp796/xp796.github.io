@@ -5,9 +5,9 @@
   <subtitle>记录</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="xp796.coding.me/"/>
+  <link href="http://www.xp796.top/"/>
   <updated>2018-04-15T07:44:31.311Z</updated>
-  <id>xp796.coding.me/</id>
+  <id>http://www.xp796.top/</id>
   
   <author>
     <name>xp</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My First Post</title>
-    <link href="xp796.coding.me/2018/04/15/My-First-Post/"/>
-    <id>xp796.coding.me/2018/04/15/My-First-Post/</id>
+    <link href="http://www.xp796.top/2018/04/15/My-First-Post/"/>
+    <id>http://www.xp796.top/2018/04/15/My-First-Post/</id>
     <published>2018-04-15T07:44:31.000Z</published>
     <updated>2018-04-15T07:44:31.311Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="xp796.coding.me/2018/04/15/hello-world/"/>
-    <id>xp796.coding.me/2018/04/15/hello-world/</id>
+    <link href="http://www.xp796.top/2018/04/15/hello-world/"/>
+    <id>http://www.xp796.top/2018/04/15/hello-world/</id>
     <published>2018-04-15T07:17:04.546Z</published>
     <updated>2018-04-15T07:17:04.547Z</updated>
     
