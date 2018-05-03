@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>xp blog</title>
-  
-  <subtitle>记录</subtitle>
+  <title>xp</title>
+  <icon>https://www.gravatar.com/avatar/a69dedca440fdb31063760fd1d54c6c6</icon>
+  <subtitle>记我所想 写我所思</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xp796.top/"/>
-  <updated>2018-04-15T07:17:04.547Z</updated>
+  <updated>2018-05-03T12:51:17.795Z</updated>
   <id>http://www.xp796.top/</id>
   
   <author>
     <name>xp</name>
-    
+    <email>pengxie796@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://www.xp796.top/2018/05/03/test/"/>
+    <id>http://www.xp796.top/2018/05/03/test/</id>
+    <published>2018-05-03T12:50:14.000Z</published>
+    <updated>2018-05-03T12:51:17.795Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
